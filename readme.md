@@ -25,8 +25,8 @@ can this fine
 1. Make sure you have Python installed (Python 3.8+ recommended)
 2. Clone this repository:
 ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone <repo-url>
+   cd <repo-folder>
 ````
 
 3. Run the ATM simulator:
