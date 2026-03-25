@@ -95,13 +95,3 @@ This is a simulation project for educational purposes only. It does not connect 
 
 **Akash Shinde**
 GitHub: https://github.com/akashshinde-dev
-
----
-
-✅ Tip:
-
-* `#` = biggest heading
-* `##` = section headings
-* `###` = smaller headings
-
-If you want even more attractive GitHub README (like badges, icons, center title, etc.), I can upgrade it next 🚀
